@@ -1,0 +1,10 @@
+{
+  "name": "mhmssd-users",
+  "version": "1.0.0",
+  "description": "Users controller for the microservice architecture",
+  "main": "index.js",
+  "dependencies": {
+    "khal": "^0.1.0",
+    "seneca": "^3.2.1"
+  }
+}

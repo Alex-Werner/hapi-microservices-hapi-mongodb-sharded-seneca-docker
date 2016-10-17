@@ -1,0 +1,12 @@
+{
+  "name": "mhmssd-gateway",
+  "version": "1.0.0",
+  "description": "API Gateway for the microservice architecture",
+  "main": "index.js",
+  "dependencies": {
+    "chairo": "^2.2.1",
+    "hapi": "^15.1.1",
+    "khal": "^0.1.0",
+    "seneca": "^3.2.1"
+  }
+}

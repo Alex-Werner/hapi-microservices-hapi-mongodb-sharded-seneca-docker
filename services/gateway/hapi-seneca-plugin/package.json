@@ -1,0 +1,9 @@
+{
+  "name": "seneca-plugin",
+  "version": "1.0.0",
+  "description": "Seneca plugin for hapi",
+  "main": "index.js",
+  "dependencies": {
+    "seneca": "^3.2.1"
+  }
+}
