@@ -3,7 +3,7 @@ const seneca = require('seneca');
 const Routes = require('./routes.js');
 const cl = require('khal').cl;
 
-const hapiSenecaPlugin=require('./hapi-seneca-plugin');
+const hapiSenecaPlugin=require('hapi-seneca-plugin');
 const hapiSenecaPluginOptions = {
     client: 
         {
