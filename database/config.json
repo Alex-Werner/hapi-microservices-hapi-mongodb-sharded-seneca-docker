@@ -1,0 +1,7 @@
+{
+  "mongo":{
+    "name":"mhmssd",
+    "host":"localhost",
+    "port":27017
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mhmssd-database-router",
+  "version": "1.0.0",
+  "description": "Router Database for the microservice architecture",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "check-types": "^7.0.1",
+    "khal": "^0.1.0",
+    "mongodb": "^2.2.10",
+    "object-assign": "^4.1.0",
+    "seneca": "^3.2.1"
+  }
+}
